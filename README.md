@@ -2,12 +2,17 @@
   
   <h3 style="align-items: left;">Languages and Tools:</h3>
   <h5 style="align-items: left;">Development Environment</h5>
-  <div style="align-items: left;">
+<!--   <div style="align-items: left;">
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
-  </div>
+  </div> -->
+  
+  
   <h4 style="align-items: left;">Programming Languages</h4>
   <div style="align-items: left;">
     <a href="https://simple.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.discordapp.com/attachments/831127414067298304/881152499258646578/220px-C_Programming_Language.png" alt=width="60" height="60"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
+  
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank"> <img src="https://cdn.discordapp.com/attachments/831127414067298304/881152499258646578/220px-C_Programming_Language.png" alt="PHPロゴ" width="60" height="60"/> </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
 
   </div>
