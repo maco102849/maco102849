@@ -16,7 +16,7 @@
   </div>
   <h4 style="align-items: left;">HyperText Markup Language</h4>
   <div style="align-items: left;">
-    <a href="https://ja.wikipedia.org/wiki/HTML5" target="_blank"><img src="img/html-5.svg"  alt=width="70" height="70"></a>
+    <a href="https://ja.wikipedia.org/wiki/HTML5" target="_blank"><img src="img/HTML5_logo.svg.png"  alt="HTML5ロゴ" width="70" height="70" hspace="30"></a>
     <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
 
   </div>
