@@ -12,8 +12,8 @@
     <a href="https://simple.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://cdn.discordapp.com/attachments/831127414067298304/881152499258646578/220px-C_Programming_Language.png" alt=width="60" height="60"/> </a>
 <!--     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a> -->
   
-  <a href="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank"> <img src="https://cdn.discordapp.com/attachments/831127414067298304/881152499258646578/220px-C_Programming_Language.png" alt="PHPロゴ" width="60" height="60"/> </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHPロゴ" width="60" height="60"/> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/PHP-logo.svg.png" alt=width="60" height="60"/> </a>
 
   </div>
   <h4 style="align-items: left;">HyperText Markup Language</h4>
