@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Makoto</h1>
+<h1 align="center">Hi 👋 I'm maco</h1>
   
   <h3 style="align-items: left;">Languages and Tools:</h3>
 <!--   <h5 style="align-items: left;">Development Environment</h5>
