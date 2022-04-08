@@ -22,6 +22,7 @@
 
   </div>
     <h3 style="align-items: left;">License:</h3>
+    <a href="https://www.jitec.ipa.go.jp/sg/about.html" target="_blank"><img src="img/ロゴ.png"  alt="ロゴ" width="70" height="70" hspace="30"></a>
     <h3 style="align-items: left;">Language:</h3> 
                                                                                                                                      
    <h3 style="align-items: left;">Statistics:</h3> 
