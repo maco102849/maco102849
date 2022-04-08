@@ -13,7 +13,7 @@
 <!--     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="img/c-sharp (1).svg" alt=width="60" height="60"/> </a> -->
   
   <a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:PHP-logo.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHPロゴ" width="60" height="60"/> </a>
-    <a href="https://ja.wikipedia.org/wiki/Python" target="_blank"> <img src="img/Python_logo.svg.png" alt="pythonロゴ" width="60" height="60"/> </a>
+    <a href="https://ja.wikipedia.org/wiki/Python" target="_blank"> <img src="img/Python_logo.svg.png" alt="pythonロゴ" width="120" height="60"/> </a>
 
   </div>
   <h4 style="align-items: left;">HyperText Markup Language</h4>
