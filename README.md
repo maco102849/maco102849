@@ -17,7 +17,8 @@
   <h4 style="align-items: left;">HyperText Markup Language</h4>
   <div style="align-items: left;">
     <a href="https://ja.wikipedia.org/wiki/HTML5" target="_blank"><img src="img/HTML5_logo.svg.png"  alt="HTML5ロゴ" width="70" height="70" hspace="30"></a>
-    <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="img/css-3.svg" alt="" alt=width="70" height="70" ></a>
+    <a href="https://simple.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank"><img src="img/css.webp"  alt="CS5ロゴ" width="70" height="70" hspace="30"></a>
+    <a href="https://ja.wikipedia.org/wiki/JavaScript target="_blank"><img src="img/javascript.png"  alt="JSロゴ" width="70" height="70" hspace="30"></a>
 
   </div>
 
