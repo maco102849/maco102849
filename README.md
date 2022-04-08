@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I'm maco</h1>
+<h1 align="center">Hi 👋 I'm Makoto</h1>
   
   <h3 style="align-items: left;">Languages and Tools:</h3>
-  <h5 style="align-items: left;">Development Environment</h5>
-<!--   <div style="align-items: left;">
+<!--   <h5 style="align-items: left;">Development Environment</h5>
+  <div style="align-items: left;">
     <a href="https://git-scm.com/" target="_blank"> <img src="img/git-icon.svg" alt=width="60" height="60"/> </a>
   </div> -->
   
@@ -21,7 +21,9 @@
     <a href="https://ja.wikipedia.org/wiki/JavaScript target="_blank"><img src="img/javascript.png"  alt="JSロゴ" width="70" height="70" hspace="30"></a>
 
   </div>
-
+    <h3 style="align-items: left;">License:</h3>
+    <h3 style="align-items: left;">Language:</h3> 
+                                                                                                                                     
    <h3 style="align-items: left;">Statistics:</h3> 
 
 
